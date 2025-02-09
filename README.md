@@ -56,6 +56,10 @@ Potential enhancements that could be added:
 - Interactive elements
 - Contact form integration
 
+## Project Link
+
+https://github.com/mcagonsi/Single-Page-CV/blob/main/index.html
+
 ## License
 
 Feel free to use this template for your personal CV/Resume. Attribution is appreciated but not required.
