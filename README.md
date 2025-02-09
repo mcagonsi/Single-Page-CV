@@ -1,3 +1,7 @@
+# Project Link
+
+https://github.com/mcagonsi/Single-Page-CV/blob/main/index.html
+
 # Single-Page CV Website
 
 A clean, modern, and responsive single-page CV/Resume website built with pure HTML and inline CSS. This project showcases a professional curriculum vitae in a well-structured, easy-to-read format.
@@ -55,10 +59,6 @@ Potential enhancements that could be added:
 - PDF export functionality
 - Interactive elements
 - Contact form integration
-
-## Project Link
-
-https://github.com/mcagonsi/Single-Page-CV/blob/main/index.html
 
 ## License
 
