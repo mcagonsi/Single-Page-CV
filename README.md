@@ -1,6 +1,6 @@
 # Project Link
 
-https://github.com/mcagonsi/Single-Page-CV/blob/main/index.html
+[https://github.com/mcagonsi/Single-Page-CV/blob/main/index.html](https://mcagonsi.github.io/Single-Page-CV/)
 
 # Single-Page CV Website
 
